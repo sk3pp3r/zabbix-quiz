@@ -7,17 +7,17 @@
   Welcome to the Zabbix Questions Repository! This repository contains a comprehensive list of questions covering various aspects of Zabbix, including installation, configuration, monitoring, troubleshooting, and advanced features. Use these questions to test your knowledge and learn more about Zabbix.
 </p>
 
-## Introduction
+## 📖 Introduction
 
 [Zabbix](https://www.zabbix.com/) is an enterprise-class open-source monitoring solution designed for network monitoring and application monitoring, capable of handling millions of metrics effortlessly. Whether you're a beginner looking to get started or an expert seeking to dive deeper, these questions will help you explore the world of Zabbix.
 
-## How to Use
+## 📂 How to Use
 
 Each question in this repository is designed to provide clarity and test your understanding of Zabbix. The questions are categorized into three levels: Beginner, Intermediate, and Expert. You can expand each question to reveal detailed answers and explanations.
 
 Feel free to use these questions for self-assessment, as a study resource, or as a reference for Zabbix-related topics. Enjoy exploring the world of Zabbix monitoring!
 
-## Contents
+## 🔧 Contents
 
 This repository contains a list of 100 questions, covering a wide range of topics related to Zabbix. The questions are organized into three difficulty levels: Beginner, Intermediate, and Expert. Below is a brief overview of the categories:
 
@@ -25,7 +25,7 @@ This repository contains a list of 100 questions, covering a wide range of topic
 - [**Intermediate Questions**](#intermediate-questions): Explore more advanced topics like custom templates, authentication, and SNMP.
 - [**Expert Questions**](#expert-questions): Dive deep into complex Zabbix configurations, monitoring Docker, HA setups, and more.
 
-## Contributing
+## 📘 Contributing
 We welcome contributions to this repository! If you'd like to contribute questions, improvements, or suggestions, please read our [Contribution Guidelines](CONTRIBUTING.md) for detailed information on how to get started.
 If you'd like to contribute to this repository by adding more questions, improving existing ones, or making any enhancements, please feel free to fork the repository and submit a pull request. Your contributions are greatly appreciated!
 
@@ -39,7 +39,7 @@ This repository is provided under the [MIT License](LICENSE).
 
 **** 
 
-# Beginner Questions 
+# 👶 Beginner Questions 
 
 <details>
 <summary>What is Zabbix?</summary><br><b>
@@ -181,7 +181,7 @@ Maintenance periods in Zabbix can be configured to suppress notifications and da
 
 </b></details>
 
-# Intermediate Questions
+# 🧔‍♂️ Intermediate Questions
 
 <details>
 <summary>What are low-level discovery (LLD) rules in Zabbix?</summary><br><b>
@@ -325,7 +325,7 @@ A calculated item in Zabbix is an item that computes its value based on the valu
 
 </b></details>
 
-# Expert Questions
+# 🧓 Expert Questions
 
 <details>
 <summary>How do you create a calculated item in Zabbix?</summary><br><b>
